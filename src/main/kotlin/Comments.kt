@@ -1,6 +1,5 @@
 class Comments {
+}
+fun main(){
 
-    fun main(){
-
-    }
 }
