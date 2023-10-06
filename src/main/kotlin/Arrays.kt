@@ -1,6 +1,7 @@
 class Arrays {
 }
 fun main(){
+    //Returns an array containing the specified elements
     val names = arrayOf("evange","marti","Lean","german")
 
     println(names[0])
