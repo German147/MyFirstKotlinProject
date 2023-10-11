@@ -1,3 +1,5 @@
+package basic
+
 class Null_Safety {
 }
 fun main(){

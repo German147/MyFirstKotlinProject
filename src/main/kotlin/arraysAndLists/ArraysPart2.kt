@@ -1,3 +1,5 @@
+package arraysAndLists
+
 class ArraysPart2 {
 }
 fun main(){
