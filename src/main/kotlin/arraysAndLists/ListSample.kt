@@ -1,10 +1,12 @@
+package arraysAndLists
+
 class ListSample {
 }
 
 fun main(){
     //Returns a new read-only list of given elements.
     // The returned list is serializable (JVM)
-    val names = listOf<String>("ger",
+    val names = listOf<String>("basic.ger",
     "evange","lean","mar")
     println(names[0])
     println(names.size)

@@ -1,3 +1,5 @@
+package basic
+
 class Val_vs_Var {
 }
 

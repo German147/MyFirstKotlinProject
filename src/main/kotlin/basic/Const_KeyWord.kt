@@ -1,3 +1,5 @@
+package basic
+
 class Const_KeyWord {
 }
 //it is like Static final in java usint the const val expression
@@ -6,7 +8,7 @@ fun main(){
 
     //it is not possible because it is like Static final in java
         println(ger)
-       // ger = "luis"
+       // basic.ger = "luis"
 
 
 }
